@@ -18,6 +18,8 @@ Whether knowing your current version of Anaconda alone is not enough information
 
 5. In your Terminal, type `conda --version` and press enter. 
 
+    The output of your query will tell you which version of Anaconda is installed on your computer. _E.g._, `conda 4.7.12` 
+
 
 ### Windows
 
@@ -29,18 +31,16 @@ Whether knowing your current version of Anaconda alone is not enough information
 
 4. When the terminal pops up, you will likely see either a window with black text over white background or colored text over a black background.You know you're in the right place when you see the `$`.
 
-5. In your terminal, type `conda --version` and press `Enter`. 
+5. In your terminal, type `conda --version` and press `Enter`.
 
----
+    The output of your query will tell you which version of Anaconda is installed on your computer. _E.g._, `conda 4.7.12` 
 
-The output of your query will tell you which version of Anaconda is installed on your computer. _E.g._, `conda 4.7.12` 
+## How to make sure you have the current version of Anaconda installed
 
-## How to make sure you have the current version installed
+To access your terminal, follow the steps for your operating system above. Once inside your terminal, type `conda update -n root conda` and press <kbd>enter</kbd>. Your computer will then retrieve from the web the latest version of Anaconda and install it in your selected environment. 
 
-From your terminal, type `conda update -n root conda` and press `Enter`. Your computer will then retrieve from the web the latest version of Anaconda and install it in your selected environment. 
+## Making sure all Python packages are up-to-date in your Anaconda installation
 
-## Making sure all packages are up-to-date
-
-From your terminal, type `conda update --all` and press `Enter`. 
+To access your terminal, follow the steps for your operating system above. Once inside your terminal, type `conda update --all` and press <kbd>enter</kbd>. 
 
 This command will update all packages in the current environment to the latest version. 
