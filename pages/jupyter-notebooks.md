@@ -16,7 +16,7 @@ Find and open the Anaconda Navigator on your computer (you should be able to fin
 
 ![jupyter](images/jupyter.png)
 
-Jupyter Notebook will open as a tab in your default browser, which is where you will be working. All of the directories (folders) in your `home` directory will appear. (This may vary depending on what OS you are using, as the file structure can be different)
+Jupyter Notebook will open as a tab in your default browser, which is where you will be working. All of the directories (folders) in your `home` directory will appear. (This may vary depending on what operating system—macOS, Windows, etc.—you are using, as the file structure can be different)
 
 We will now open a new file. It is very important that you make sure to open the file in the right place, so you can find it later. Navigate on the directories clicking on them until you are on the desired directory.
 
@@ -48,7 +48,7 @@ Jupyter Notebook allows you to run cells in any order you want. Again, that can 
 
 The best way to learn Jupyter Notebook is working with it for a while. Once you get more comfortable, make sure to read tutorials to see advanced possibilities. We suggest some below.
 
-Also, it is a good idea to try to learn the keyboard shortcuts. They can save you a lot of time in the long run. To see the list of shortcuts, in the top menu click on `Help > Keyboard Shortcuts`.
+Also, it is a good idea to try to learn the keyboard shortcuts. They can save you a lot of time in the long run. To see the list of shortcuts, in the top menu click on `Help` >> `Keyboard Shortcuts`.
 
 Here are a few that I have found helpful:
 
