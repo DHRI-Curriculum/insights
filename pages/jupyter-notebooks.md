@@ -2,7 +2,11 @@
 
 ## What is Notebooks?
 
-A very short intro to what Jupyter Notebooks are, and why we're using it. (See [this article](https://www.nature.com/articles/d41586-018-07196-1) from _Nature_ perhaps?)
+Jupyter Notebooks
+
+Computational notebooks (also called "Notebook Interfaces") have existed for decades, and were created to let users to combine software code, computational output, explanatory text and multimedia resources in a single document. They became popular among researchers for allowing them to annotate procedue, data and findings, making it easier for them to later reproduce calculations with different data.
+
+Jupyter Notebooks have exploded in popularity in the past years, becoming by far the most used computational notebook. 
 
 ## How to open a Jupyter notebook
 
