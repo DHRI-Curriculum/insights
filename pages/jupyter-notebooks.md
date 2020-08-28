@@ -1,6 +1,6 @@
 # Short Introduction to Jupyter Notebooks
 
-## What is Notebooks?
+## What are Notebooks?
 
 Jupyter Notebooks
 
@@ -40,7 +40,7 @@ Your notebook has a kernel, which is like an engine that executes the code conta
 
 What matters is to understand that while you are running codes in a notebook, the kernel will remember all the variables you've created, libraries you've imported, etc. And that will be true even if deleted a cell after you ran it.
 
-This is very powerful, but can be a source of confusion. If you feel you have changed things too much, or that you are getting outputs you should not be gettin, or if you experience some kind of crash, you can always restart the kernel, which will "clean" the memory of the kernel, and ask the notebook to run all the cells again. In that way, you will guarantee that the kernel will only have ran what is currently coded on the cells. To do that, on the top menu, click on `kernel` -> `Restart & Run All`. You will see other options there, feel free to explore them.
+This is very powerful, but can be a source of confusion. If you feel you have changed things too much, or that you are getting outputs you should not be getting, or if you experience some kind of crash, you can always restart the kernel, which will "clean" the memory of the kernel, and ask the notebook to run all the cells again. In that way, you will guarantee that the kernel will only have ran what is currently coded on the cells. To do that, on the top menu, click on `kernel` -> `Restart & Run All`. You will see other options there, feel free to explore them.
 
 Jupyter Notebook allows you to run cells in any order you want. Again, that can be very useful, but it can be quite confusing. At least in the beginning, we strongly suggest you to avoid running cells out of order. 
 
