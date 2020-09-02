@@ -2,9 +2,7 @@
 
 ## What are Notebooks?
 
-Jupyter Notebooks
-
-Computational notebooks (also called "Notebook Interfaces") have existed for decades, and were created to let users to combine software code, computational output, explanatory text and multimedia resources in a single document. They became popular among researchers for allowing them to annotate procedue, data and findings, making it easier for them to later reproduce calculations with different data.
+Jupyter Notebooks is a form of "computational notebook" (sometimes called "Notebook Interfaces"). They have existed for decades, and were created to let users to combine software code, computational output, explanatory text and multimedia resources in a single document. They became popular among researchers for allowing them to annotate procedue, data and findings, making it easier for them to later reproduce calculations with different data.
 
 Jupyter Notebooks have exploded in popularity in the past years, becoming by far the most used computational notebook. 
 
@@ -56,4 +54,3 @@ Here are a few that I have found helpful:
 - [Corey Schafer's videos](https://www.youtube.com/watch?v=HW29067qVWk)
 - DataQuest's [Jupyter Notebook for Beginners: A Tutorial](https://www.dataquest.io/blog/jupyter-notebook-tutorial)
 - Programming Historian's [longer tutorial](https://programminghistorian.org/en/lessons/jupyter-notebooks)
-
