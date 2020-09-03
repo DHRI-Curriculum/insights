@@ -1,10 +1,12 @@
 # Short Introduction to Jupyter Notebooks
 
+In some of our workshops we use Jupyter Notebooks. Whether you want to test short code snippets or document your computational output and complement it with text and multimedia resources in a single document, Jupyter Notebooks is a great tool to use. Here are our short introduction to how to use Notebooks.
+
 ## What are Notebooks?
 
 Jupyter Notebooks is a form of "computational notebook" (sometimes called "Notebook Interfaces"). They have existed for decades, and were created to let users to combine software code, computational output, explanatory text and multimedia resources in a single document. They became popular among researchers for allowing them to annotate procedue, data and findings, making it easier for them to later reproduce calculations with different data.
 
-Jupyter Notebooks have exploded in popularity in the past years, becoming by far the most used computational notebook. 
+Jupyter Notebooks have exploded in popularity in the past years, becoming by far the most used computational notebook.
 
 ## How to open a Jupyter notebook
 
@@ -40,7 +42,7 @@ What matters is to understand that while you are running codes in a notebook, th
 
 This is very powerful, but can be a source of confusion. If you feel you have changed things too much, or that you are getting outputs you should not be getting, or if you experience some kind of crash, you can always restart the kernel, which will "clean" the memory of the kernel, and ask the notebook to run all the cells again. In that way, you will guarantee that the kernel will only have ran what is currently coded on the cells. To do that, on the top menu, click on `kernel` -> `Restart & Run All`. You will see other options there, feel free to explore them.
 
-Jupyter Notebook allows you to run cells in any order you want. Again, that can be very useful, but it can be quite confusing. At least in the beginning, we strongly suggest you to avoid running cells out of order. 
+Jupyter Notebook allows you to run cells in any order you want. Again, that can be very useful, but it can be quite confusing. At least in the beginning, we strongly suggest you to avoid running cells out of order.
 
 ## Learning more/Resources
 
