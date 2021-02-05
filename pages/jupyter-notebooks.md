@@ -1,3 +1,5 @@
+![Header image for Choosing a text editor](images/header-jupiter-notebooks.png)
+
 # Short Introduction to Jupyter Notebooks
 
 In some of our workshops we use Jupyter Notebooks. Whether you want to test short code snippets or document your computational output and complement it with text and multimedia resources in a single document, Jupyter Notebooks is a great tool to use. Here are our short introduction to how to use Notebooks.
@@ -52,7 +54,7 @@ Also, it is a good idea to try to learn the keyboard shortcuts. They can save yo
 
 Here are a few that I have found helpful:
 
-- [28 Jupyter Notebook Tips, Tricks and Shortcuts](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
-- [Corey Schafer's videos](https://www.youtube.com/watch?v=HW29067qVWk)
-- DataQuest's [Jupyter Notebook for Beginners: A Tutorial](https://www.dataquest.io/blog/jupyter-notebook-tutorial)
-- Programming Historian's [longer tutorial](https://programminghistorian.org/en/lessons/jupyter-notebooks)
+-   [28 Jupyter Notebook Tips, Tricks and Shortcuts](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
+-   [Corey Schafer's videos](https://www.youtube.com/watch?v=HW29067qVWk)
+-   DataQuest's [Jupyter Notebook for Beginners: A Tutorial](https://www.dataquest.io/blog/jupyter-notebook-tutorial)
+-   Programming Historian's [longer tutorial](https://programminghistorian.org/en/lessons/jupyter-notebooks)
