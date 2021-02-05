@@ -1,4 +1,4 @@
-![Header image for Keeping your Anaconda installation up to date](images/header.png)
+![Header image for Keeping your Anaconda installation up to date](images/header-anaconda.png)
 
 # Keeping your Anaconda installation up to date
 

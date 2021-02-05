@@ -1,3 +1,5 @@
+![Header image for Choosing a text editor](images/header-text-editor.png)
+
 # Choosing a text editor
 
 An important tool for programming and working in several of the DHRI's workshops is a text editor. A text editor is a program that allows you to edit plain text files, such as `.txt`, `.csv`, or `.md`. Text editors are not used to edit rich text documents, such as `.docx` or `.rtf`, and rich text editors should not be used to edit plain text files. This is because rich text editors will add many invisible special characters that will prevent programs from running and configuration files from being read correctly.
