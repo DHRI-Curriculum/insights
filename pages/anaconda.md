@@ -1,3 +1,5 @@
+![Header image for Keeping your Anaconda installation up to date](images/header.png)
+
 # Keeping your Anaconda installation up to date
 
 From time to time, and especially before you start working on a new project or when you are running into unexpected issues, you're going to want to make sure that your Anaconda installation and its packages are up to date. Through software and package updates developers implement new functionalities, usability improvements, ensure compatibility with other software, and especially patch known coding flaws.
@@ -16,10 +18,9 @@ Whether knowing your current version of Anaconda alone is not enough information
 
 4. When the Terminal pops up, you will likely see either a window with black text over white background or colored text over a black background.
 
-5. In your Terminal, type `conda --version` and press enter. 
+5. In your Terminal, type `conda --version` and press enter.
 
-    The output of your query will tell you which version of Anaconda is installed on your computer. _E.g._, `conda 4.7.12` 
-
+    The output of your query will tell you which version of Anaconda is installed on your computer. _E.g._, `conda 4.7.12`
 
 ### Windows
 
@@ -33,14 +34,14 @@ Whether knowing your current version of Anaconda alone is not enough information
 
 5. In your terminal, type `conda --version` and press `Enter`.
 
-    The output of your query will tell you which version of Anaconda is installed on your computer. _E.g._, `conda 4.7.12` 
+    The output of your query will tell you which version of Anaconda is installed on your computer. _E.g._, `conda 4.7.12`
 
 ## How to make sure you have the current version of Anaconda installed
 
-To access your terminal, follow the steps for your operating system above. Once inside your terminal, type `conda update -n root conda` and press <kbd>enter</kbd>. Your computer will then retrieve from the web the latest version of Anaconda and install it in your selected environment. 
+To access your terminal, follow the steps for your operating system above. Once inside your terminal, type `conda update -n root conda` and press <kbd>enter</kbd>. Your computer will then retrieve from the web the latest version of Anaconda and install it in your selected environment.
 
 ## Making sure all Python packages are up-to-date in your Anaconda installation
 
-To access your terminal, follow the steps for your operating system above. Once inside your terminal, type `conda update --all` and press <kbd>enter</kbd>. 
+To access your terminal, follow the steps for your operating system above. Once inside your terminal, type `conda update --all` and press <kbd>enter</kbd>.
 
-This command will update all packages in the current environment to the latest version. 
+This command will update all packages in the current environment to the latest version.
